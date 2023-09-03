@@ -27,21 +27,15 @@ Installation
 
 1.  Clone the Repository
 
-    bashCopy code
-
-    `git clone https://github.com/josephtwilliams/FineTuneYou.git`
+    ```git clone https://github.com/josephtwilliams/FineTuneYou.git```
 
 2.  Install Required Python Packages
 
-    bashCopy code
-
-    `pip install -r requirements.txt`
+    ```pip install -r requirements.txt```
 
 3.  Set Up Your OpenAI API Key Create a `.env` file in the root directory and add the following line:
 
-    bashCopy code
-
-    `OPENAI_API_KEY=your-api-key`
+    ```OPENAI_API_KEY=your-api-key```
 
 Usage
 -----
@@ -66,8 +60,8 @@ To reset the project and remove all generated files except for essential ones li
 
 pythonCopy code
 
-`from reset_script import reset_project
-reset_project()`
+```from reset_script import reset_project```
+```reset_project()```
 
 License
 -------
