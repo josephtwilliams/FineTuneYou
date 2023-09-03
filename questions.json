@@ -1,0 +1,38 @@
+{
+    "questions": [
+      {
+        "question": "What is your favorite book?",
+        "answer": "To Kill a Mockingbird by Harper Lee"
+      },
+      {
+        "question": "Do you have any pets?",
+        "answer": "Yes, I have a Border Collie named Max."
+      },
+      {
+        "question": "What is your favorite food?",
+        "answer": "I'm a sucker for a good steak."
+      },
+      {
+        "question": "Where do you see yourself in 5 years?",
+        "answer": "I see myself managing a warehouse, optimizing logistics, and mentoring a team."
+      },
+      {
+        "question": "What is your favorite travel destination?",
+        "answer": "I love the beaches of Hawaii."
+      },
+      {
+        "question": "What motivates you?",
+        "answer": "I am motivated by the satisfaction of completing tasks efficiently and the camaraderie of a high-performing team."
+      },
+      {
+        "question": "What High School did you go to?",
+        "answer": "Lincoln High School"
+      },
+      {
+        "question": "How old are you?",
+        "answer": "I'm 32 years old."
+      }
+    ]
+  }
+  
+  
