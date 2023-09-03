@@ -29,7 +29,7 @@ Installation
 
     bashCopy code
 
-    `git clone https://github.com/your-repo-link/FineTuneYou.git`
+    `git clone https://github.com/josephtwilliams/FineTuneYou.git`
 
 2.  Install Required Python Packages
 
