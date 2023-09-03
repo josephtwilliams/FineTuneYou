@@ -4,7 +4,7 @@ FineTuneYou
 Overview
 --------
 
-`FineTuneYou` is a project designed to fine-tune language models based on personalized text documents, such as resumes and custom questions. Leveraging the capabilities of GPT-3.5-turbo, this project allows users to generate questions based on their resume, fine-tune a language model, and utilize it for various tasks.
+`FineTuneYou` is a project designed to fine-tune language models based on personalised text documents, such as resumes and custom questions. Leveraging the capabilities of GPT-3.5-turbo, this project allows users to generate questions based on their resume, fine-tune a language model, and use this model for retrieval augmented questions answering.
 
 Features
 --------
